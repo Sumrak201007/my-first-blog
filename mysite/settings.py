@@ -25,7 +25,7 @@ SECRET_KEY = 'c$ye&f_&y4ye9lsq^g&=(uk46)ng#n5o5-c9pusc2m%he(d7$e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Sumrak.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lirprog.pythonanywhere.com']
 
 
 # Application definition
